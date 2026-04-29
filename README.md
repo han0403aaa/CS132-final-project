@@ -16,4 +16,4 @@ In Reverse Mode, the player picks a number between 1 and 100 without telling the
 
 ## Files
 - num_guessing.py: main program file
-- Final_Report.pdf: final project report
+- final project.pdf: final project report
