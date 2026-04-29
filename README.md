@@ -3,6 +3,7 @@ Number Guessing Battle is a terminal-based number guessing game. The computer ch
 
 ## How to Run
 Run the program in the terminal with Python:
+
 num_guessing.py
 
 ## How to Play
